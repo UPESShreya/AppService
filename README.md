@@ -1,2 +1,0 @@
-# AppService
-This is ReadMe.
